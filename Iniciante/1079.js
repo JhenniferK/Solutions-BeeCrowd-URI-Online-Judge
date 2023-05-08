@@ -1,5 +1,4 @@
 let l1 = Number(lines.shift());
-let valores = new Array(3);
 
 for (let i = 0; i < l1; i++) {
   valores = lines.shift().split(' ').map(Number);
