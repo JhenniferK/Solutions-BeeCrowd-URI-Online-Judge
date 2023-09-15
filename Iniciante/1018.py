@@ -1,11 +1,13 @@
-valor = int(input())
+valor = int(input());
+print(valor);
 
-n100 = valor//100
-n50 = (valor%100)//50
-n20 = (valor%100%50)//20
-n10 = (valor%100%50%20)//10
-n5 = (valor%100%50%20%10)//5
-n2 = (valor%100%50%20%10%5)//2
-n1 = (valor%100%50%20%10%5%2)//1
+notas = [100, 50, 20, 10, 5, 2, 1];
+quantidades = [0, 0, 0, 0, 0, 0, 0];
 
-print("{}\n{} nota(s) de R$ 100,00\n{} nota(s) de R$ 50,00\n{} nota(s) de R$ 20,00\n{} nota(s) de R$ 10,00\n{} nota(s) de R$ 5,00\n{} nota(s) de R$ 2,00\n{} nota(s) de R$ 1,00".format(valor, n100, n50, n20, n10, n5, n2, n1))
+for i in range(len(notas)):
+    quantidade = valor//notas[i];
+    valor %= notas[i];
+    quantidades[i] = quantidade;
+
+for i in range(len(notas)):
+  print("{} nota(s) de R$ {},00".format(quantidades[i], notas[i]));
