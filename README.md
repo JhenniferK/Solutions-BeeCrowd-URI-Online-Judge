@@ -1,6 +1,6 @@
 # 💻 **Soluções Beecrowd**
 
-Bem-vindo(a) ao meu repositório de soluções para problemas do [Beecrowd](https://www.beecrowd.com.br/)! Aqui você encontrará as implementações que desenvolvi para resolver os desafios dessa incrível plataforma de programação competitiva. 🚀
+Bem-vindo(a) ao meu repositório de soluções para problemas do [Beecrowd](https://www.beecrowd.com.br/)! Aqui você encontrará as implementações que desenvolvi para resolver os desafios dessa plataforma de programação. 🚀
 
 ## 📚 **Sobre o Repositório**
 
