@@ -41,5 +41,5 @@ As soluções estão organizadas pelo número dos problemas, facilitando a naveg
 
 ---
 
-🖤 **Obrigado por visitar este repositório!**
+🖤 **Obrigada por visitar este repositório!**
 
