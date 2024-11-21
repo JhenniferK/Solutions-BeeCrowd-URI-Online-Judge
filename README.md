@@ -12,7 +12,7 @@ Este repositório contém soluções de problemas categorizados por tópicos abo
 - 💾 **SQL**
 - 🐣 **Iniciante**
 
-Cada solução foi escrita com dedicação e testada cuidadosamente para atender aos requisitos do problema. 💡
+Cada solução foi escrita com dedicação e testada para atender aos requisitos do problema. 💡
 
 ---
 
