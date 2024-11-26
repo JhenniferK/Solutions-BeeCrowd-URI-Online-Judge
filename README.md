@@ -14,8 +14,6 @@ Este repositório contém soluções de problemas categorizados por tópicos abo
 
 Cada solução foi escrita com dedicação e testada para atender aos requisitos do problema. 💡
 
----
-
 ## 🚀 **Tecnologias Utilizadas**
 
 As linguagens usadas para resolver os problemas incluem:
@@ -25,13 +23,9 @@ As linguagens usadas para resolver os problemas incluem:
 - **Java** ☕
 - **SQL** 🗄️
 
----
-
 ## 📂 **Organização dos Arquivos**
 
 As soluções estão organizadas pelo número dos problemas, facilitando a navegação e consulta.  
-
----
 
 ## 🤔 **Por Que Resolver Problemas do Beecrowd?**
 
